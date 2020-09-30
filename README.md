@@ -1,4 +1,4 @@
-# Hacktoberfest 2020 Swag List
+# Hacktoberfest 2020 Swag List - Swaggers Den
 
 It's that time of year again! Time to get rewarded for contributing to the Open Source community! Did you know that there are multiple tech companies that participate in Hacktoberfest and give away sweet, sweet swag?
 
